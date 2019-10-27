@@ -1,0 +1,7 @@
+Debug/
+Release/
+*.user
+*.filters
+*.swp
+*.sdf
+
