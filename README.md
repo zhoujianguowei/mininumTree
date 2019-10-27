@@ -3,4 +3,4 @@
 
 程序截图如下：(我的本机是四核八线程i7-4710MQ处理器)
 
-![程序运行截图](./img/1.png)
+![程序运行截图](https://github.com/zhoujianguowei/mininumTree/raw/master/img/1.png)
